@@ -18,7 +18,7 @@ Para maiores informações, visite nosso site [Geosaber](http://www.geosaber.com
 
 ## Rscripts (QGIS)
 
-Conjunto de rotinas do R para executar comandos dentro do QGIS de forma integrada.
+Qgis é um software livre de Sistemas de Informação Geografica (SIG) que permite usar de forma integrada com R um conjunto diversas ferramentas, axulilando ao Qgis, na análises de dados espacial entre elas o uso de pacotes Geoestatísticos e não Geoestatísticos. Estas ferramentas são incorporadas por meio de r-scripts executando comandos dentro do Qgis.
 
 ```markdown
 Syntax highlighted code block
