@@ -6,7 +6,7 @@ excerpt: "Iniciado em 2007 com o intuito de ser referência em Sistemas de Infor
 ---
 [![RSpatial](https://github.com/geosaber/r4geo/raw/gh-pages/img/poster_qgisr.png)]({{ site.baseurl }}{% link docs/gis-102.md %})
 ## ***GIS-102 Geoestatística no QGIS (com o R e pacotes gstat e sp)***
-### Turma Abril/2019 - Inscrições abertas, vagas limitadas.
+### Turma Maio/2019 - Inscrições abertas, vagas limitadas.
 - ***Dias: 06 e 07 de maio de 2019***
 - ***Local: [CT Novatec (Centro de Treinamento da Editora Novatec)](https://ctnovatec.com.br)***
   - ao lado do Metrô Carandiru. São Paulo - SP.
