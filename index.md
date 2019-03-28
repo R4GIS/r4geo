@@ -4,9 +4,9 @@ feature_text: |
 feature_image: "https://github.com/geosaber/r4geo/raw/gh-pages/img/site_geosaber.png"
 excerpt: "Iniciado em 2007 com o intuito de ser referência em Sistemas de Informações Geográficas Livres e Abertas, em especial nas suportadas pela [Fundação OSGeo](http://www.osgeo.org) como o ***QGIS*** e ***GRASS GIS***."
 ---
-[![RSpatial](https://github.com/geosaber/r4geo/raw/gh-pages/img/poster_qgisr.png)]({{ site.baseurl }}{% link docs/gis-102.md %})
 ## ***GIS-102 Geoestatística no QGIS (com o R e pacotes gstat e sp)***
 ### Turma Maio/2019 - Inscrições abertas, vagas limitadas.
+[![RSpatial](https://github.com/geosaber/r4geo/raw/gh-pages/img/poster_qgisr.png)]({{ site.baseurl }}{% link docs/gis-102.md %})
 - ***Dias: 06 e 07 de maio de 2019***
 - ***Local: [CT Novatec (Centro de Treinamento da Editora Novatec)](https://ctnovatec.com.br)***
   - ao lado do Metrô Carandiru. São Paulo - SP.
