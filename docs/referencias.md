@@ -52,3 +52,4 @@ tags: QGIS, GRASS GIS, SAGA GIS, OSGeo, FOSS4G
   - [An Introduction to Spatial Data Analysis and Visualisation in R](https://data.cdrc.ac.uk/tutorial/an-introduction-to-spatial-data-analysis-and-visualisation-in-r)
   - [Creating a Geodemographic Classification Using K-means Clustering in R](https://data.cdrc.ac.uk/tutorial/creating-a-geodemographic-classification-using-k-means-clustering-in-r)
   - [Geographic Data Science in Python](https://data.cdrc.ac.uk/tutorial/geographic-data-science-in-python)
+  - [CREATE AND INTEGRATE MAPS IN YOUR R WORKFLOW WITH THE CARTOGRAPHY PACKAGE](https://rgeomatic.hypotheses.org/842)
