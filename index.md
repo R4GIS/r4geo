@@ -8,7 +8,7 @@ excerpt: "Iniciado em 2007 com o intuito de ser referência em Sistemas de Infor
 ### Webminar - no dia 04 de maio
 [![RSpatial](https://github.com/geosaber/r4geo/raw/gh-pages/img/poster_qgisr.png)]({{ site.baseurl }}{% link docs/gis-102.md %})
 - [**Programa do Curso**]({{ site.baseurl }}{% link docs/gis-102.md %})
-**Site**: [webconf/geosaber](https://mconf.org/webconf/geosaber)
+- **Site**: [webconf/geosaber](https://mconf.org/webconf/geosaber)
 
 ---
 ## Cursos presenciais e *in company* (turmas fechadas)
