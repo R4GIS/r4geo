@@ -53,3 +53,7 @@ tags: QGIS, GRASS GIS, SAGA GIS, OSGeo, FOSS4G
   - [Creating a Geodemographic Classification Using K-means Clustering in R](https://data.cdrc.ac.uk/tutorial/creating-a-geodemographic-classification-using-k-means-clustering-in-r)
   - [Geographic Data Science in Python](https://data.cdrc.ac.uk/tutorial/geographic-data-science-in-python)
 - [CREATE AND INTEGRATE MAPS IN YOUR R WORKFLOW WITH THE CARTOGRAPHY PACKAGE](https://rgeomatic.hypotheses.org/842)
+
+## Publicar
+- [Spatial segmentation of image data](http://emapr.ceoas.oregonstate.edu/pages/education/how_to/image_segmentation/how_to_spatial_segmentation.html)
+- [LT-GEE Guide](https://emapr.github.io/LT-GEE)
