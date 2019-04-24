@@ -5,13 +5,13 @@ feature_image: "https://github.com/geosaber/r4geo/raw/gh-pages/img/osm_bkground.
 tags: GIS, Health, Epidemiology
 ---
 ## ***Chronic Disease GIS Exchange***
-Este site foi projetado para gestores de saúde pública, líderes comunitários, usuários de sistemas de informações geográficas (GIS), epidemiologistas e qualquer pessoa interessada em usar o GIS para prevenir doenças cardíacas, derrames e outras doenças crônicas.
-
+Este site foi projetado para gestores de saúde pública, líderes comunitários, usuários de Sistemas de Informações Geográficas (GIS), epidemiologistas e qualquer pessoa interessada em usar o GIS para prevenir doenças cardíacas, derrames e outras doenças crônicas.
 [![CDGIS](https://github.com/geosaber/r4geo/raw/gh-pages/img/cdgisex.png)](https://www.cdc.gov/dhdsp/maps/gisx/index.html)
 
 ### GIS Training
 Tutoriais projetados para usuários novatos e avançados do GIS que trabalham com doenças crônicas.
 [![GIS Training](https://github.com/geosaber/r4geo/raw/gh-pages/img/colon-cancer.png)](https://www.cdc.gov/dhdsp/maps/gisx/training/index.html)
+> *You must have access to ArcGIS in order to complete these exercises.*
 - GIS Training I: Organizing Principles: An Introduction to GIS
   - Module 1.1: Considering Spatial Data
   - Module 1.2: Displaying Data
@@ -34,7 +34,6 @@ Tutoriais projetados para usuários novatos e avançados do GIS que trabalham co
   - Module 4.1 ArcGIS Online
   - Module 4.2 Generating Composite Measures
   - Module 4.3 Mapping Uncertainty
-> *You must have access to ArcGIS in order to complete these exercises.*
 
 ## Referências:
 - [CDC/Chronic Disease GIS Exchange](https://www.cdc.gov/dhdsp/maps/gisx/index.html)
