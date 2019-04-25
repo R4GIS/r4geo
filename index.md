@@ -5,10 +5,9 @@ feature_image: "https://github.com/geosaber/r4geo/raw/gh-pages/img/site_geosaber
 excerpt: "Iniciado em 2007 com o intuito de ser referência em Sistemas de Informações Geográficas Livres e Abertas, em especial nas suportadas pela [Fundação OSGeo](http://www.osgeo.org) como o ***QGIS*** e ***GRASS GIS***."
 ---
 ## ***GIS-102 Geoestatística no QGIS (com o R e pacotes gstat e sp)***
-### Webminar - no dia 04 de maio
+### [Webinar](https://meet.jit.si/cursoQR) - no dia 04 de maio
 [![RSpatial](https://github.com/geosaber/r4geo/raw/gh-pages/img/poster_qgisr.png)]({{ site.baseurl }}{% link docs/gis-102.md %})
 - [**Programa do Curso**]({{ site.baseurl }}{% link docs/gis-102.md %})
-- **Site**: [webconf/geosaber](https://mconf.org/webconf/geosaber)
 
 ---
 ## Cursos presenciais e *in company* (turmas fechadas)
@@ -22,6 +21,7 @@ excerpt: "Iniciado em 2007 com o intuito de ser referência em Sistemas de Infor
 - **GIS-106 Análise Geoespacial no R**
 - **GIS-107 Análise de Dados Espaciais no GeoDa**
 - **GIS-108 Análise GeoAmbiental com QGIS/GRASS/R**
+- **GIS-109 Processaemnto de Dados de LIDAR (escaneamento LASER)**
 
 {% include button.html text="Twitter" icon="twitter" link="https://www.twitter.com/ss_geosaber" color="#1DA1F2" %} {% include button.html text="Facebook" icon="facebook" link="https://www.facebook.com/SS.Geosaber" color="#0366d6" %} {% include button.html text="Linkedin" icon="linkedin" link="https://www.linkedin.com/company/geosaber" color="#0c94a7" %}
 
