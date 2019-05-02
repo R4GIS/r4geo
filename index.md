@@ -5,7 +5,7 @@ feature_image: "https://github.com/geosaber/r4geo/raw/gh-pages/img/site_geosaber
 excerpt: "Iniciado em 2007 com o intuito de ser referência em Sistemas de Informações Geográficas Livres e Abertas, em especial nas suportadas pela [Fundação OSGeo](http://www.osgeo.org) como o ***QGIS*** e ***GRASS GIS***."
 ---
 ## ***GIS-102 Geoestatística no QGIS (com o R e pacotes gstat e sp)***
-### [Webinar](https://meet.jit.si/cursoQR) - no dia 04 de maio
+### [EAD](https://geosaber.moodlecloud.com) - estamos preparando um novo curso online!!!
 [![RSpatial](https://github.com/geosaber/r4geo/raw/gh-pages/img/poster_qgisr.png)]({{ site.baseurl }}{% link docs/gis-102.md %})
 - [**Programa do Curso**]({{ site.baseurl }}{% link docs/gis-102.md %})
 
