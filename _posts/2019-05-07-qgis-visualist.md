@@ -22,6 +22,7 @@ O **Visualist** fornece um conjunto crescente de funções de análise e gerenci
 > Análise das estatísticas de autocorrelação espacial local. O plugin cobre as estatísticas ***Local Moran’s I*** (Análises de *Clusters* e *Outliers*) e ***Getis-Ord Gi**** (Análise de *Hot-Spot*). Estes mapas são gerados com ***PySAL: Python Spatial Analysis Library***.
 - Estatísticas espaciais
   - Análise de vizinhos mais próximos (*K-Nearest*)
+
 [![Visualist](https://github.com/geosaber/r4geo/raw/gh-pages/img/nngrid.png)](https://ipsac2.unil.ch/main)
 
 ## Referências:
