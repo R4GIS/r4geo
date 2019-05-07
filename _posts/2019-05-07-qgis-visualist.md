@@ -1,5 +1,5 @@
 ---
-title: QGIS Plugin Visualist for Crime Analysts
+title: QGIS Visualist plugin for Crime Analysts
 category: tutoriais
 feature_image: "https://github.com/geosaber/r4geo/raw/gh-pages/img/osm_bkground.png"
 tags: GIS, Spatial Analysis, LISA, I Moran's, Cluster
