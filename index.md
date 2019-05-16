@@ -6,11 +6,8 @@ excerpt: "Iniciado em 2007 com o intuito de ser referência em Sistemas de Infor
 ---
 ---
 ### GIS-200 Geoestatística Aplicada no QGIS (com o R provider)
+- Curso [EAD/Virtual](https://geosaber.moodlecloud.com) - Lançamento da plataforma *Moodle* no dia 01 de julho (previsto)
 - ***Inscrições abertas, vagas limitadas à 50 participantes***
-
-#### Curso [EAD/Virtual](https://geosaber.moodlecloud.com) - Lançamento da plataforma *Moodle* no dia 01 de julho (previsto)
-{: .alert .alert-info}
-
 - [Formulário de Incrição](https://forms.gle/dvQny6p5ouMAwju79)
 
 [![RSpatial](https://github.com/geosaber/r4geo/raw/gh-pages/img/poster_qgisr.png)]({{ site.baseurl }}{% link docs/gis-102.md %})
