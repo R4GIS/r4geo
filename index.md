@@ -26,7 +26,7 @@ excerpt: "Iniciado em 2007 com o intuito de ser referência em Sistemas de Infor
 - **GIS-106 Análise Geoespacial no R**
 - **GIS-107 Análise de Dados Espaciais no GeoDa**
 - **GIS-108 Análise GeoAmbiental com QGIS/GRASS/R**
-- **GIS-109 Processaemnto de Dados de LIDAR (escaneamento LASER)**
+- **GIS-109 Processamento de Dados de LIDAR (escaneamento LASER)**
 
 {% include button.html text="Twitter" icon="twitter" link="https://www.twitter.com/ss_geosaber" color="#1DA1F2" %} {% include button.html text="Facebook" icon="facebook" link="https://www.facebook.com/SS.Geosaber" color="#0366d6" %} {% include button.html text="Linkedin" icon="linkedin" link="https://www.linkedin.com/company/geosaber" color="#0c94a7" %}
 
