@@ -6,9 +6,9 @@ excerpt: "Cursos de QGIS e SIG livres"
 tags: QGIS, GRASS GIS, SAGA GIS, OSGeo, FOSS4G
 ---
 ## *Apostilas & e-Books*
-- **Using QGIS v3 in Mineral Exploration**, junho de 2019 (versão 3.6) 
-  > Este documento é destinado ao geólogo de exploração na Austrália Ocidental, mas as técnicas descritas são facilmente transferíveis para outras áreas. O autor usa o QGIS desde 2015 e a versão usada neste documento é a versão 3.6
+- **Using QGIS v3 in Mineral Exploration**, junho de 2019 (versão 3.6)
   - [QGIS v3 in Mineral Exploration](https://docs.wixstatic.com/ugd/4d930e_92174776bd854cb9be19579250c330e2.pdf)
+  > Este documento é destinado ao geólogo de exploração na Austrália Ocidental, mas as técnicas descritas são facilmente transferíveis para outras áreas. O autor usa o QGIS desde 2015 e a versão usada neste documento é a versão 3.6
 
 - **Caderno de Instrução de Geoinformação**, 1ª edição, 2018 - Apresenta conhecimentos teóricos e práticos no uso da Geoinformação, com ênfase no software QGIS 2.18.
   - [Geoportal do Exército Brasileiro](http://www.geoportal.eb.mil.br/portal/inde2)
