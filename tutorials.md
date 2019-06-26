@@ -10,6 +10,10 @@ tags: QGIS, GRASS GIS, SAGA GIS, OSGeo, FOSS4G
   - [QGIS v3 in Mineral Exploration](https://docs.wixstatic.com/ugd/4d930e_92174776bd854cb9be19579250c330e2.pdf)
   > Este documento é destinado ao geólogo de exploração na Austrália Ocidental, mas as técnicas descritas são facilmente transferíveis para outras áreas. O autor usa o QGIS desde 2015 e a versão usada neste documento é a versão 3.6
 
+- **APOSTILA QGIS 3.4 DGTA**, 2ª edição, 2019 - Práticas de geoprocessamento em QGIS / Secretaria de
+Estado de Meio Ambiente e Desenvolvimento Sustentável de Minas Gerais.
+  - [APOSTILA QGIS 3.4](http://www.meioambiente.mg.gov.br/images/stories/2019/GESTAO_AMBIENTAL/IDE/APOSTILA_QGIS_3.4_DGTA.pdf)
+
 - **Caderno de Instrução de Geoinformação**, 1ª edição, 2018 - Apresenta conhecimentos teóricos e práticos no uso da Geoinformação, com ênfase no software QGIS 2.18.
   - [Geoportal do Exército Brasileiro](http://www.geoportal.eb.mil.br/portal/inde2)
   
