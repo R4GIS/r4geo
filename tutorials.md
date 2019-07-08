@@ -12,7 +12,7 @@ tags: QGIS, GRASS GIS, SAGA GIS, OSGeo, FOSS4G
 
 - **APOSTILA QGIS 3.4 DGTA**, 2ª edição, 2019 - Práticas de geoprocessamento em QGIS / Secretaria de
 Estado de Meio Ambiente e Desenvolvimento Sustentável de Minas Gerais.
-  - [APOSTILA QGIS 3.4](http://www.meioambiente.mg.gov.br/images/stories/2019/GESTAO_AMBIENTAL/IDE/APOSTILA_QGIS_3.4_DGTA.pdf)
+  - [APOSTILA QGIS 3.4](http://www.meioambiente.mg.gov.br/images/stories/2019/GESTAO_AMBIENTAL/IDE/APOSTILA_QGIS_3.4_DGTA-SEMAD-190619.pdf)
 
 - **Caderno de Instrução de Geoinformação**, 1ª edição, 2018 - Apresenta conhecimentos teóricos e práticos no uso da Geoinformação, com ênfase no software QGIS 2.18.
   - [Geoportal do Exército Brasileiro](http://www.geoportal.eb.mil.br/portal/inde2)
