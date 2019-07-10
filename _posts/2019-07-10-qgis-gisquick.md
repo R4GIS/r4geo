@@ -18,13 +18,13 @@ tags: GIS, QGIS, WebGIS
 
 ### ***Demonstration Projects***
 Use a conta de teste para acessar todos os recursos - login: user1 password: user1
+[Demo GISQuick](https://projects.gisquick.org/?PROJECT=user1/prague/prague)
+
 Você também pode experimentar o Gisquick com seus próprios projetos de QGIS:
 - Instalar o plugin Gisquick QGIS
 - Prepare o seu projeto QGIS com o plugin
 - Inscreva-se para criar sua conta de usuário
 - Faça o login na página do usuário e faça o upload do seu projeto
-
-[Demo GISQuick](https://projects.gisquick.org/?PROJECT=user1/prague/prague)
 
 ## Referências:
 - [Documentação](https://gisquick.readthedocs.io)
