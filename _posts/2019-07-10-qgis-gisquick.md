@@ -17,7 +17,8 @@ tags: GIS, QGIS, WebGIS
 [![cordova](https://github.com/geosaber/r4geo/raw/gh-pages/img/cordova.png)](http://gisquick.org)
 
 ### ***Demonstration Projects***
-Use a conta de teste para acessar todos os recursos - login: user1 password: user1
+Use a conta de teste para acessar todos os recursos - *login: user1 password: user1*
+
 [Demo GISQuick](https://projects.gisquick.org/?PROJECT=user1/prague/prague)
 
 Você também pode experimentar o Gisquick com seus próprios projetos de QGIS:
